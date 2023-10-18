@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.wrapper {
+    height: 100vh;
+    width: 100vh;
+}
+
+.container {
+    display: inline-block;
+    height: 100vh;
+
+}
+
+.logo-loja {
+    width: 2700px;
+    height: 800px;
+    display: inline-block;
+    margin-top: 40px;
+}
+
+.menu {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.section {
+    width: 100px;
+    margin: 50px 0 50px 0;
+}
+
+.link-menu {
+    font-weight: 50px;
+    font-size: 50px;
+    line-height: 30px;
+    color: #989d9c;
+    cursor: pointer;
+    margin-right: 37px;
+    margin-left: 37px;
+    
+}
+
+a {
+    font-weight: 90px;
+    font-size: 30px;
+    line-height: 12px;
+    margin-top: 20px;
+    margin-bottom: 27px;
+}
