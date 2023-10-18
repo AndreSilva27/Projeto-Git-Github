@@ -25,12 +25,12 @@
 
 .menu {
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 4px;
 }
 
 .section {
-    width: 100px;
-    margin: 50px 0 50px 0;
+    width: 50px;
+    margin: 50px 0 20px 0;
 }
 
 .link-menu {
@@ -50,4 +50,15 @@ a {
     line-height: 12px;
     margin-top: 20px;
     margin-bottom: 27px;
+}
+
+div {
+    margin-top: ;
+}
+
+.ameixa {
+    width: 1200px;
+    height: 400px;
+    display: inline-block;
+    margin-top: 10px;
 }
